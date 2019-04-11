@@ -20,6 +20,7 @@ table{
 
 <table style="width:100%">
   <tr>
+  <td> name</td>
 	<td>S.NO</td>
     <td>TITLE</td>
     <td>STATUS</td>
